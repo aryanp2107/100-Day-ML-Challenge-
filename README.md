@@ -16,7 +16,7 @@ My journey through machine learning — from data fundamentals to deep learning.
 
 ## Log
 
-### Phase 1: Data Foundations (Days 1-15) ✅
+### Phase 1: Data Foundations (Days 1-15) 
 
 | Day | Topic | Dataset |
 |-----|-------|---------|
@@ -36,7 +36,7 @@ My journey through machine learning — from data fundamentals to deep learning.
 | 14 | Data Integration | Multi-source Merge |
 | 15 | **Capstone: Rain Prediction** | Australian Weather |
 
-### Phase 2: Classical ML (Days 16-40) ✅
+### Phase 2: Classical ML (Days 16-40) 
 
 | Day | Topic | Dataset |
 |-----|-------|---------|
@@ -64,7 +64,7 @@ My journey through machine learning — from data fundamentals to deep learning.
 | 37 | Pipelines Masterclass | Melbourne Housing |
 | 38-40 | **Capstone: Loan Default Prediction** | Lending Club |
 
-### Phase 3: Deep Learning (Days 41-60) 🔄
+### Phase 3: Deep Learning (Days 41-60) 
 
 | Day | Topic | Framework | Dataset |
 |-----|-------|-----------|---------|
